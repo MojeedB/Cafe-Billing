@@ -4,7 +4,6 @@ CSC 211
 Lab 3
 
 Cafe Billing System
-
 Due March 12th 2020
 */
 
